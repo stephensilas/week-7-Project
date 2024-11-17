@@ -1,0 +1,12 @@
+{
+  "name": "week-7-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass --watch sass/main.scss:CSS/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
